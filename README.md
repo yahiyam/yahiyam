@@ -82,4 +82,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yahiyam&show_icons=true&locale=en" alt="yahiyam" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiyam&" alt="yahiyam" /></p><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiyam&" alt="yahiyam" /></p><br><br>
