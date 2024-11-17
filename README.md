@@ -11,11 +11,7 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/yahiya_00" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yahiya_00?logo=twitter&style=for-the-badge" alt="yahiya_00" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on [**TableTap**](https://github.com/yahiyam/table_tap.git), an innovative QR-based restaurant management app.  
 - 🌱 I’m currently learning **JavaScript** to expand my web development skills.  
@@ -79,11 +75,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yahiyam&show_icons=true&locale=en" alt="yahiyam" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiyam&" alt="yahiyam" /></p><br><br>
 <p>
   <a href="https://www.buymeacoffee.com/yahiyamuhammed">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yahiyamuhammed" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yahiyamuhammed" />
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yahiyam&show_icons=true&locale=en" alt="yahiyam" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiyam&" alt="yahiyam" /></p><br><br>
